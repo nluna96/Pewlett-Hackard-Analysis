@@ -6,8 +6,8 @@ The purpose of the analysis is to determine the number of retiring employees per
 ## Results: 
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 
+![Unique titles](Images/unique_titles.png)
 
-Pewlett-Hackard-Analysis/Images/
 
 ## Summary: 
 Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
