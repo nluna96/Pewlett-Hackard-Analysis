@@ -4,8 +4,6 @@
 The purpose of the analysis is to determine the number of retiring employees per title and identify employees who are eligible to participate in a mentorship program. 
 
 ## Results: 
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-
 ![Unique titles](Images/unique_titles.png)
 - There is a total of 90,398 employees that will be retiring. 
 - The two biggest positions that will need to be filled are Senior Engineers and Senior Staff. 
@@ -19,7 +17,6 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 
 ## Summary: 
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 The "silver tsunami" will leave a total of 90,398 roles that need to be filled. Also, there are not enough qualified employees in the department to mentor the next generation. For example, of the 29,414 Senior Engineer, only 529 are eligible to mentor. Assuming they need to hire 29,414 new employees there will be a mentee to mentor ratio of 56:1. That means that every mentor will have about 56 mentees. 
 
 To get a better understanding of the employees that are retiring we can look at the tables below. Of the 90,398 employees that are retiring 36,258 are Female and 54,140 are Male. The positions with the most available roles previously occupied by a female are the Senior Engineer role. The position with the most available roles previously occupied by a male is the Senior Engineer.
