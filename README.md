@@ -6,14 +6,14 @@ The purpose of the analysis is to determine the number of retiring employees per
 ## Results: 
 ![Unique titles](Images/unique_titles.png)
 - There is a total of 90,398 employees that will be retiring. 
-- The two biggest positions that will need to be filled are Senior Engineers and Senior Staff. 
-- The title that will have the most vacant position is Senior Engineers with 29414.
+- The two positions with biggest openings are Senior Engineers and Senior Staff. 
+- The role with the most openings is Senior Engineers with 29,414.
  
 
 ![Mentorship_eligibility](Images/mentorship_eligibility.png)
 - There is a total of 1,549 employees that are eligible for the mentorship program.
 - The position with the most eligible employees for the mentorship program is the Senior Staff with 569.
-- No Managers eligible for the mentorship program.
+- No are Managers eligible for the mentorship program.
 
 
 ## Summary: 
