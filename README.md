@@ -29,7 +29,9 @@ In order to get a better understanding of the employees that are retiring we can
 
 
 Of the 1,549 employees eligible to mentor 643 are Female and 906 are male. The role with the most available mentors for females is Senior Staff. The role with the most available mentors for males is Senior Staff.
+![Mentorship_gender](Images/mentorship_gender.png)
+
 ![Mentorship_by_title_gender](Images/mentorship_by_gender_titles.png)
 
-![Mentorship_gender](Images/mentorship_gender.png)
+
 
